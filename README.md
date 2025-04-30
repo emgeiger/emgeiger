@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emgeiger
-- 👀 I’m interested in ... Powershell (for work)? Lol.
-- 🌱 I’m currently learning ...Powershell..
-- 💞️ I’m looking to collaborate on ... Powershell..
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...GitHub?
 
 <!---
